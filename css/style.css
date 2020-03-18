@@ -104,7 +104,7 @@ header:before {
   -webkit-transform-origin: center;
           transform-origin: center;
   min-height: 100vh;
-  background-image: url(/images/11695.jpg);
+  background-image: url(../images/11695.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
